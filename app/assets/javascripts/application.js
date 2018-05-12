@@ -13,3 +13,13 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+
+// Don't forget the sprockets directives in assets/javascripts/application.js
+
+// app/assets/javascripts/application.js
+
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap-sprockets
+//= require_tree .
